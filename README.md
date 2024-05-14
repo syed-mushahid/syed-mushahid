@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Mushahid Hussain</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Lauenroth](https://lauenroth.netlify.app/)
+- 🔭 I'm currently pursuing a Master's in Computer Science at <b>Phillips University Marburg, Germany.</b>
 
 - 🌱 I’m currently learning **TensorFlow**
 
