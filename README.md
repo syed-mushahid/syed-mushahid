@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **JavaScript or PHP**
+- 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **contact@syedmushahid.com**
 
